@@ -82,7 +82,7 @@
     "debounce-fn": "^1.0.0",
     "del": "^3.0.0",
     "electron-compile": "^6.4.3",
-    "electron-context-menu": "^0.10.0",
+    "electron-context-menu": "^1.0.0",
     "electron-debug": "^2.0.0",
     "electron-devtools-installer": "^2.2.4",
     "electron-dl": "^1.12.0",
