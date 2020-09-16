@@ -111,7 +111,7 @@
     "path-exists": "^3.0.0",
     "progress-stream": "^2.0.0",
     "pump": "^3.0.0",
-    "selfsigned": "^1.10.3",
+    "selfsigned": "^1.10.8",
     "semver": "^5.5.1",
     "server-destroy": "^1.0.1",
     "signal-exit": "^3.0.2",
